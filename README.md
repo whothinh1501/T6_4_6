@@ -1,2 +1,2 @@
-# TH1
+# CHECK luon branch Master nha thay
 Thuc hanh tuan 1
